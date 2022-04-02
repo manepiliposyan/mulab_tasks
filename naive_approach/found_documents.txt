@@ -1,7 +1,7 @@
 Searching for the following set of tags:
 {tag_12, tag_18, tag_27, tag_31, tag_34, tag_38, tag_40, tag_50, tag_58, tag_59, tag_60, tag_62, tag_69, tag_75, tag_8, tag_89}
 
-Found 683 documents in
+Found 683 documents 
 1. doc_372214
 2. doc_771355
 3. doc_846794
