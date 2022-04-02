@@ -70,7 +70,7 @@ TaggedDocuments::streamOutDocuments(const Tags& tags) const
     }
     out << "}\n";
 
-    out << "\nFound " << documents.size() << " documents in\n";
+    out << "\nFound " << documents.size() << " documents\n";
     
     for (size_t i = 0; i != documents.size(); ++i)
         out << i + 1 << ". " << documents[i] << std::endl;
